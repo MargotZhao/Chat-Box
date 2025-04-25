@@ -1,7 +1,4 @@
-# Chat-Box
 Fine-Tuning and Comparison of Language Models with LoRA
-Show Image
-
 1. Problem Statement & Overview
 This project implements efficient fine-tuning of language models using Low-Rank Adaptation (LoRA) technique to create specialized conversational agents. It compares two different-sized language models (GPT-2 and TinyLlama) on performance metrics including response quality, latency, and computational requirements, all packaged in an interactive Streamlit dashboard for real-time evaluation.
 
